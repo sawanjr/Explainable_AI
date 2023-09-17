@@ -51,7 +51,6 @@ The dataset used in this project is stored in the file `wine.csv`. It contains t
 
 ## Model Explanation (SHAP)
 - SHAP (SHapley Additive exPlanations) is used to explain the model's predictions.
-- # Model Explanation via SHAP (SHapley Additive exPlanations)
 
 ![SHAP](https://raw.githubusercontent.com/slundberg/shap/master/docs/artwork/shap_diagram.png)
 
